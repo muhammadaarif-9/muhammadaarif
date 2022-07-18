@@ -1,1 +1,1 @@
-This Page is will be holding the coding guide and Computer Science Content
+This Page will be holding the coding guide and Computer Science Content
